@@ -1,1 +1,6 @@
-# zone_characteristics
+### This repository contains a program that can calculate zone characteristics of drift chamber
+
+### The author: Zavidov Egor  
+  
+#### For download:  
+$ git clone https://github.com/victorsemipalatin/zone_characteristics_of_dc.git
