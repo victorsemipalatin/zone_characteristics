@@ -1,4 +1,4 @@
-### This repository contains a program that can calculate zone characteristics of drift chamber
+### This repository contains a program that helps to calculate zone characteristics of drift chamber
 
 ### The author: Zavidov Egor  
   
