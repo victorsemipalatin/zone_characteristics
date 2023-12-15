@@ -3,4 +3,4 @@
 ### The author: Zavidov Egor  
   
 #### For download:  
-$ git clone https://github.com/victorsemipalatin/zone_characteristics_of_dc.git
+$ git clone https://github.com/victorsemipalatin/zone_characteristics.git
